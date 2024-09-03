@@ -1,1 +1,5 @@
 # EDA-by-Loan-Defaulter
+
+DATA IS LONG AND BIG IN SIZE THAT'S WHY WE CAN UPLOAD IT ON GIT-HUB BCZ IT CONTAINS SIZE MORE THEN 25 MB. SO, I HAVE COPIED THE LINK AND PESTE ON README FILE 
+THAT IS LIKE THIS-
+https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter
